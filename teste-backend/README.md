@@ -108,3 +108,5 @@ http://localhost:8000/products/category/1 cada numero e uma categoria relacionad
 filtrar os produtos ativos e inativos;
 http://localhost:8000/products/ativos
 http://localhost:8000/products/inativos
+
+- Sobre o desafio extra, eu consegui criar um ambiente com docker, porem tive dificuldades para fazer ele exibir uma pagina de teste de requisição (tipo swagger). Porem imagino que talvez teria que ser criado uma estrutura com html e js para testar as requisições diretamente do localhost na web.
